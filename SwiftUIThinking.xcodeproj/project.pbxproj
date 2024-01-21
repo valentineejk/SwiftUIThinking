@@ -11,12 +11,14 @@
 		021015F42A379E8C00F3C5C5 /* GridSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021015F32A379E8C00F3C5C5 /* GridSwiftUIView.swift */; };
 		0213D7BA2AB61D2600EFCD35 /* StateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0213D7B92AB61D2600EFCD35 /* StateView.swift */; };
 		0213D7BC2AB76D4900EFCD35 /* ExtractSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0213D7BB2AB76D4900EFCD35 /* ExtractSwiftUIView.swift */; };
+		0219BDE02B756FBE000441AB /* NavigateSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0219BDDF2B756FBE000441AB /* NavigateSwiftUIView.swift */; };
 		022AE8842ABE2EE300268168 /* ExtractedSubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022AE8832ABE2EE200268168 /* ExtractedSubView.swift */; };
 		022AE8862ABE382400268168 /* BindingSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022AE8852ABE382400268168 /* BindingSwiftUIView.swift */; };
 		02326F282A266F9F001530C3 /* forSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02326F272A266F9F001530C3 /* forSwiftUIView.swift */; };
 		02326F2A2A2673DD001530C3 /* scrollSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02326F292A2673DD001530C3 /* scrollSwiftUIView.swift */; };
 		02654C072B3DC402005550D1 /* AnimationTimingSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02654C062B3DC402005550D1 /* AnimationTimingSwiftUIView.swift */; };
 		0265E0F62B596FF6000D80FC /* SheetSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0265E0F52B596FF6000D80FC /* SheetSwiftUIView.swift */; };
+		0265E0F82B5D694B000D80FC /* PopOverSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0265E0F72B5D694B000D80FC /* PopOverSwiftUIView.swift */; };
 		027A78542B59419200A014A7 /* TransitionSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027A78532B59419200A014A7 /* TransitionSwiftUIView.swift */; };
 		028CBC4429F0785E002706D3 /* SwiftUIThinkingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028CBC4329F0785E002706D3 /* SwiftUIThinkingApp.swift */; };
 		028CBC4629F0785E002706D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028CBC4529F0785E002706D3 /* ContentView.swift */; };
@@ -33,12 +35,14 @@
 		021015F32A379E8C00F3C5C5 /* GridSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridSwiftUIView.swift; sourceTree = "<group>"; };
 		0213D7B92AB61D2600EFCD35 /* StateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateView.swift; sourceTree = "<group>"; };
 		0213D7BB2AB76D4900EFCD35 /* ExtractSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSwiftUIView.swift; sourceTree = "<group>"; };
+		0219BDDF2B756FBE000441AB /* NavigateSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigateSwiftUIView.swift; sourceTree = "<group>"; };
 		022AE8832ABE2EE200268168 /* ExtractedSubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedSubView.swift; sourceTree = "<group>"; };
 		022AE8852ABE382400268168 /* BindingSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingSwiftUIView.swift; sourceTree = "<group>"; };
 		02326F272A266F9F001530C3 /* forSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forSwiftUIView.swift; sourceTree = "<group>"; };
 		02326F292A2673DD001530C3 /* scrollSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scrollSwiftUIView.swift; sourceTree = "<group>"; };
 		02654C062B3DC402005550D1 /* AnimationTimingSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingSwiftUIView.swift; sourceTree = "<group>"; };
 		0265E0F52B596FF6000D80FC /* SheetSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetSwiftUIView.swift; sourceTree = "<group>"; };
+		0265E0F72B5D694B000D80FC /* PopOverSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverSwiftUIView.swift; sourceTree = "<group>"; };
 		027A78532B59419200A014A7 /* TransitionSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionSwiftUIView.swift; sourceTree = "<group>"; };
 		028CBC4029F0785E002706D3 /* SwiftUIThinking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		028CBC4329F0785E002706D3 /* SwiftUIThinkingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingApp.swift; sourceTree = "<group>"; };
@@ -99,6 +103,8 @@
 				02654C062B3DC402005550D1 /* AnimationTimingSwiftUIView.swift */,
 				027A78532B59419200A014A7 /* TransitionSwiftUIView.swift */,
 				0265E0F52B596FF6000D80FC /* SheetSwiftUIView.swift */,
+				0265E0F72B5D694B000D80FC /* PopOverSwiftUIView.swift */,
+				0219BDDF2B756FBE000441AB /* NavigateSwiftUIView.swift */,
 				028CBC4729F07861002706D3 /* Assets.xcassets */,
 				028CBC4929F07861002706D3 /* SwiftUIThinking.entitlements */,
 				028CBC4A29F07861002706D3 /* Preview Content */,
@@ -184,8 +190,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0219BDE02B756FBE000441AB /* NavigateSwiftUIView.swift in Sources */,
 				02FBBB2C2A090F8300D1F765 /* Stack10.swift in Sources */,
 				02FBBB492A0AB24100D1F765 /* metaTexttF.swift in Sources */,
+				0265E0F82B5D694B000D80FC /* PopOverSwiftUIView.swift in Sources */,
 				0265E0F62B596FF6000D80FC /* SheetSwiftUIView.swift in Sources */,
 				022AE8862ABE382400268168 /* BindingSwiftUIView.swift in Sources */,
 				022AE8842ABE2EE300268168 /* ExtractedSubView.swift in Sources */,
