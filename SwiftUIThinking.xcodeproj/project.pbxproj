@@ -24,6 +24,7 @@
 		028CBC4629F0785E002706D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028CBC4529F0785E002706D3 /* ContentView.swift */; };
 		028CBC4829F07861002706D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 028CBC4729F07861002706D3 /* Assets.xcassets */; };
 		028CBC4C29F07861002706D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 028CBC4B29F07861002706D3 /* Preview Assets.xcassets */; };
+		029066712B763A91006B2136 /* ListTutorialSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029066702B763A91006B2136 /* ListTutorialSwiftUIView.swift */; };
 		02C806C02A127D3700F1876D /* initBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C806BF2A127D3700F1876D /* initBootCamp.swift */; };
 		02EC94392AD30681006CB9DD /* AnimationSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC94382AD30681006CB9DD /* AnimationSwiftUIView.swift */; };
 		02FBBB2C2A090F8300D1F765 /* Stack10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FBBB2B2A090F8300D1F765 /* Stack10.swift */; };
@@ -50,6 +51,7 @@
 		028CBC4729F07861002706D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		028CBC4929F07861002706D3 /* SwiftUIThinking.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUIThinking.entitlements; sourceTree = "<group>"; };
 		028CBC4B29F07861002706D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		029066702B763A91006B2136 /* ListTutorialSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTutorialSwiftUIView.swift; sourceTree = "<group>"; };
 		02C806BF2A127D3700F1876D /* initBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = initBootCamp.swift; sourceTree = "<group>"; };
 		02EC94382AD30681006CB9DD /* AnimationSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSwiftUIView.swift; sourceTree = "<group>"; };
 		02FBBB2B2A090F8300D1F765 /* Stack10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack10.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				0213D7BB2AB76D4900EFCD35 /* ExtractSwiftUIView.swift */,
 				022AE8832ABE2EE200268168 /* ExtractedSubView.swift */,
 				022AE8852ABE382400268168 /* BindingSwiftUIView.swift */,
+				029066702B763A91006B2136 /* ListTutorialSwiftUIView.swift */,
 				021015F32A379E8C00F3C5C5 /* GridSwiftUIView.swift */,
 				0213D7B92AB61D2600EFCD35 /* StateView.swift */,
 				02EC94382AD30681006CB9DD /* AnimationSwiftUIView.swift */,
@@ -204,6 +207,7 @@
 				021015F42A379E8C00F3C5C5 /* GridSwiftUIView.swift in Sources */,
 				0213D7BC2AB76D4900EFCD35 /* ExtractSwiftUIView.swift in Sources */,
 				02EC94392AD30681006CB9DD /* AnimationSwiftUIView.swift in Sources */,
+				029066712B763A91006B2136 /* ListTutorialSwiftUIView.swift in Sources */,
 				02C806C02A127D3700F1876D /* initBootCamp.swift in Sources */,
 				02326F282A266F9F001530C3 /* forSwiftUIView.swift in Sources */,
 				0207F0502A50CFA200FA75C6 /* SafeAreaView.swift in Sources */,
