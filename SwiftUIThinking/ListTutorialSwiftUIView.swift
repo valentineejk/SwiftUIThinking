@@ -67,6 +67,7 @@ struct ListTutorialSwiftUIView: View {
 
     }
     
+    //new in
     var addBtn: some View{
         Button("Add") {
             add()
